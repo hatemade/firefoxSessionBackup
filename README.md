@@ -6,7 +6,10 @@ Firefoxのsessionstore.jsを実行時毎にバックアップします。
 
 ## Configuration
 set install directory path in FoxSessionBackup.bat  
+
     cd *install directory*
+
 set your Firefox sessionstore.js path  
+
     my $orig_file = '*your sessionstore.js path*\sessionstore.js';
 
